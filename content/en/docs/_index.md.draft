@@ -1,0 +1,22 @@
+
+---
+title: "Welcome to libmcu"
+linkTitle: "Documentation"
+weight: 20
+menu:
+  main:
+    weight: 20
+---
+
+Greetings..
+
+## What is libmcu
+We offer what facilitate microcontroller development in four areas:
+- Firmware Development
+- Development Boards
+- Web Application
+- Cloud Service
+
+## Ready to get started?
+Find out how to build and flash your first firmware with libmcu in [Get
+Started](/docs/getting-started). Check out [API Documentation](https://docs.libmcu.org) too.
