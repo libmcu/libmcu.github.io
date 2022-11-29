@@ -106,6 +106,10 @@ params:
         url: "mailto:hello@libmcu.org"
         icon: "fa fa-envelope"
         desc: "Feel free to reach out to us"
+      - name: "Q&A"
+        url: "https://github.com/libmcu/libmcu.github.io/discussions/new?category=q-a"
+        icon: "fa fa-question-circle"
+        desc: "Ask libmcu"
     developer:
       - name: "GitHub"
         url: "https://github.com/libmcu"
