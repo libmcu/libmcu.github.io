@@ -2,7 +2,7 @@
 date: 2022-11-25
 title: 인라인 어셈블리
 description: C/C++ 소스 코드 내에서 어셈블리를 인라인으로 사용하는 방법을 설명합니다.
-author: 권경환 ([@k](https://k.mononn.com))
+author: 권경환 ([@onkwon](https://github.com/onkwon))
 tags: ["assembly", "compiler"]
 ---
 

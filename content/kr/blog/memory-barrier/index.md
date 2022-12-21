@@ -2,7 +2,7 @@
 date: 2021-10-19
 title: 메모리 배리어
 description: ARM 기반 CPU memory/synchronization 배리어에 대해 살펴봅니다
-author: 권경환 ([@k](https://k.mononn.com))
+author: 권경환 ([@onkwon](https://github.com/onkwon))
 tags: ["ARM", "memory barrier"]
 ---
 

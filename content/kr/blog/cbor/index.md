@@ -2,7 +2,7 @@
 date: 2022-08-18
 title: CBOR 바이너리 인코딩
 description: 경량 바이너리 포맷 CBOR 에 대해 알아봅니다
-author: 권경환 ([@k](https://k.mononn.com))
+author: 권경환 ([@onkwon](https://github.com/onkwon))
 tags: ["serialization", "CBOR"]
 ---
 

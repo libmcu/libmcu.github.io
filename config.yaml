@@ -99,7 +99,7 @@ params:
   links:
     user:
       - name: "Slack"
-        url: "https://libmcu.slack.com"
+        url: "https://join.slack.com/t/libmcu/shared_invite/zt-1k8679ydy-kyD6GaeCBfGgank6KANyBg"
         icon: "fab fa-slack"
         desc: "Chat with us and other users"
       - name: "Email"
